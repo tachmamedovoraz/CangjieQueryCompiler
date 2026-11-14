@@ -1,0 +1,4 @@
+﻿product_id,title,price,in_stock
+1,Laptop,899.99,true
+2,Mouse,25.50,true
+3,Keyboard,49.99,false
